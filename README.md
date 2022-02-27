@@ -33,29 +33,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-# curriculumDAO Conceptual Design (CD)
+# diplomaDAO Conceptual Design (CD)
 #### The School of Bitcoin | Stacks AUS/NZ
 
-```
-(Still in development) Fork this repository to create a conceptual design for your own curriculumDAO.
-```
-
-The School of Bitcoin is creating Decentralized Autonomous Education System (DAES) centered around financial literacy. The path to creating TSOBTC's DAES will be marked by the project based learning subDAOs that the community creates (curriculumDAOs). You can think of TSOBTC DAES as a organism/universe and each curriculumDAO as an organ/galaxy.
-
-TSOBTC STX AUS/NZ's first curriculumDAO, The Bit Entry Program, is focused on creating a base curriculum for Bitcoin and the new wave of crypto that is emerging. 
-
-### Challenge
-According to new research by Finder, "A nationally representative survey of 1,013 respondents revealed almost half of Australians (46%) wished they'd learnt how to invest during their time at school, while 44% wish they'd learnt how to manage their money." This will serve as an example for how people can create financial literacy DAOs catered to their own communities.
-
-### Focus
-Austrailia's Education System
-
-### Proposed Solution
-Develop the Bit Entry curriculumDAO as an acceible bridge between the existing education system to web3 with financial literacy. The values in the API below represents the metadata/proof-of-work for the conceptual design (CD) of The Bit Entry Program's curriculumDAO. To create a conceptual design for your own financial literacy course or program, please fork this repository and input your own values. We are currently working on clear documentation that will help you with every step in creating your DAO.
-
-TSOBTC is committed to a transparent process for creating this cirriculumDAO. Each GitHub issue will cover all of the information needed to populate the CD metadata for TSOBTC's Bit Entry Program Curriculum DAO. You can follow the same process for your own DAO's conceptual design.
+TSOBTC is committed to a transparent process for creating diplomaDAO.
 - Project Tracker: Curriculum DAO Concept Design (https://github.com/orgs/TheSchoolofBitcoin/projects/1)
-- b0mission: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/3
+- b0mission: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/1
 - b1community: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/4
 - b2media: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/5
 - b3now: https://github.com/TheSchoolofBitcoin/curriculumDAO_CD/issues/6
